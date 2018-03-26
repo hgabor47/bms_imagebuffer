@@ -46,9 +46,7 @@
     <Compile Include="..\..\BabylonMSMains\MainVRContentExporter\VRMainContentExporter\VRMainContentExporter\VRCEShared.cs">
       <Link>VRCEShared.cs</Link>
     </Compile>
-    <Compile Include="..\..\BabylonMSSolution\BabylonMSSolution\babylonms.cs">
-      <Link>babylonms.cs</Link>
-    </Compile>
+    <Compile Include="babylonms.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
