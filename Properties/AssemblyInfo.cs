@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ImageBuffer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MAV Zrt.")]
+[assembly: AssemblyCompany("HGPLSoft")]
 [assembly: AssemblyProduct("ImageBuffer")]
-[assembly: AssemblyCopyright("Copyright © MAV Zrt. 2017")]
+[assembly: AssemblyCopyright("Copyright © Gabor Horvath HGPLSoft")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
